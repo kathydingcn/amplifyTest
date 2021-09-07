@@ -1,0 +1,47 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tmpamplify2-dev-65849-authRole",
+      "UnauthRoleArn": "arn:aws:iam::914221124747:role/amplify-tmpamplify2-dev-65849-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::914221124747:role/amplify-tmpamplify2-dev-65849-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-tmpamplify2-dev-65849-deployment",
+      "UnauthRoleName": "amplify-tmpamplify2-dev-65849-unauthRole",
+      "StackName": "amplify-tmpamplify2-dev-65849",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:914221124747:stack/amplify-tmpamplify2-dev-65849/3db60aa0-0f55-11ec-a8d7-0a1c6b610dfc",
+      "AmplifyAppId": "d9q1wohd2a2j7"
+    },
+    "categories": {
+      "function": {
+        "tmpfunction": {
+          "deploymentBucketName": "amplify-tmpamplify2-dev-65849-deployment",
+          "s3Key": "amplify-builds/tmpfunction-72764c532b4a7156754a-build.zip"
+        }
+      }
+    }
+  },
+  "newenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tmpamplify2-newenv-193240-authRole",
+      "UnauthRoleArn": "arn:aws:iam::914221124747:role/amplify-tmpamplify2-newenv-193240-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::914221124747:role/amplify-tmpamplify2-newenv-193240-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-tmpamplify2-newenv-193240-deployment",
+      "UnauthRoleName": "amplify-tmpamplify2-newenv-193240-unauthRole",
+      "StackName": "amplify-tmpamplify2-newenv-193240",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:914221124747:stack/amplify-tmpamplify2-newenv-193240/8ca5c600-0fbe-11ec-a5e7-02a03b532636",
+      "AmplifyAppId": "d9q1wohd2a2j7"
+    },
+    "categories": {
+      "function": {
+        "tmpfunction": {
+          "deploymentBucketName": "amplify-tmpamplify2-newenv-193240-deployment",
+          "s3Key": "amplify-builds/tmpfunction-72764c532b4a7156754a-build.zip"
+        }
+      },
+      "auth": {
+        "tmpamplify22517e2fd": {}
+      }
+    }
+  }
+}
